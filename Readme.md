@@ -8,7 +8,7 @@ hyperterm-tomorrow-night-bright
 How to use
 ----------
 
-Add `hyperterm-tomorrow-night-bright` to `plugins` in ``~/.hyperterm.js`.
+Add `hyperterm-tomorrow-night-bright` to `plugins` in `~/.hyperterm.js`.
 
 [Hyperterm]: https://hyperterm.org/
 [Tomorrow Night Bright theme]: https://github.com/chriskempson/tomorrow-theme#tomorrow-night-bright
